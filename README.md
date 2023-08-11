@@ -1,6 +1,6 @@
 # OTA_MLE
-Orer tracking analysis by Maximum Likelihood Estimator
-This repository includes Matlab code for the Order Tracking Analysis of signals with multiple close/crossing using three methods:
+Order tracking analysis by Maximum Likelihood Estimator
+This repository includes Matlab code for the Order Tracking Analysis of vibration/acoustic signals with multiple close/crossing using three methods:
 
 (●) Our developed Maximum Likelihood Estimator method
 
