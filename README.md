@@ -1,9 +1,9 @@
 # OTA_MLE
 Orer tracking analysis by Maximum Likelihood Estimator
-This repository includes Matlab code for the Order Tracking Analysis using three methods:
-(*) Our developed Maximum Likelihood Estimator
-(*) Time Variant Discrete Fourier Transform of Blough
-(*) Vold-Kalman Order Tracking of Vold
+This repository includes Matlab code for the Order Tracking Analysis of signals with multiple close/crossing using three methods:
+(●) Our developed Maximum Likelihood Estimator method
+(●) Time Variant Discrete Fourier Transform method of Blough
+(●) Vold-Kalman Order Tracking method of Vold
 Please cite as:
 Order Tracking Analysis Using Maximum Likeihood Estimator in the Presence of Crossing Orders and Low Resolution Tacho Signal
 (to be published)
